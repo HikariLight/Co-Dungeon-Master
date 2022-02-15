@@ -1,0 +1,14 @@
+{
+  "name": "codm",
+  "version": "1.0.0",
+  "description": "Co-Dungeon Master",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Light",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
